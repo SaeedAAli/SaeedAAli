@@ -1,5 +1,6 @@
 # 🎰 Hi there, I'm Saeed Ali
-<br>💻 Experienced in Full Stack Web Development and Game Development<br>🌱 Currently learning DevOps, Databases, CI/CD, and Docker<br>🔧 Skilled in building web applications, games, and scalable systems
+<br>💻 Experienced in Full Stack Web Development and Game Development<br>🌱 Currently learning DevOps, Databases, CI/CD, and Docker<br>🔧 Skilled in building web applications, games, and scalable systems<br>🗂️ Experienced with Agile and Waterfall methodologies, writing user stories, acceptance criteria, creating personas, and using tools like Trello.</br>
+
 
 
 ## 🌐 Socials:
