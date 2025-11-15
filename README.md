@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi there, I’m Saeed Ali<br>💻 Experienced in Full Stack Web Development and Game Development<br>🌱 Currently learning DevOps, Databases, CI/CD, and Docker<br>🔧 Skilled in building web applications, games, and scalable systems
+# 🎰 Hi there, I'm Saeed Ali
+<br>💻 Experienced in Full Stack Web Development and Game Development<br>🌱 Currently learning DevOps, Databases, CI/CD, and Docker<br>🔧 Skilled in building web applications, games, and scalable systems
 
 
 ## 🌐 Socials:
