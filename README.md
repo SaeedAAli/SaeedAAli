@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">Full Stack Web Development | Games Development | DevOps</h3>
+<h3 align="left"> Web Development | Games Development | DevOps</h3>
 
 ###
 
