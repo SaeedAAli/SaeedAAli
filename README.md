@@ -1,28 +1,12 @@
-<br clear="both">
-
-<div align="center">
-  <img height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJsa2ZoZTd4bmJoZzZmaGwzcjhneW5jNHg5dnA2a3ZiczNzdnIzYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ToMjGpxTlAYheykhQQw/giphy.gif"  />
-</div>
+<h1 align="left">🎰 Hi, I'm Saeed Ali</h1>
 
 ###
 
-<br clear="both">
-
-<h1 align="center">Hi I'm Saeed Ali</h1>
+<p align="left">Developer with experience in web 💻 & game development 🎮, currently learning DevOps ☁️</p>
 
 ###
 
-<div align="center">
-  <a href="www.linkedin.com/in/saeedaali" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<h2 align="center">Devops Engineer | Web & Game Development</h2>
+<h2 align="left">About me</h2>
 
 ###
 
@@ -30,9 +14,7 @@
 
 ###
 
-<br clear="both">
-
-<h2 align="left">Language and tools</h2>
+<h2 align="left">Skills</h2>
 
 ###
 
@@ -47,9 +29,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
   <img width="12" />
@@ -60,18 +42,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
 </div>
 
 ###
 
-<h2 align="left">🎰   My Stats :</h2>
-
-###
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=saeedaali&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <img height="250" src="https://camo.githubusercontent.com/1a31f795fe4965d872d12c91eb851e210f69f55f7fc14a2f4252d053376b9017/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578596a4a7361325a6f5a546434626d4a6f5a7a5a6d6147777a636a686e6557356a4e486735646e413261335a69637a4e7a646e497a59535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f546f4d6a477078546c41596865796b685151772f67697068792e676966"  />
 </div>
 
 ###
