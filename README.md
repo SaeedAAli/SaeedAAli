@@ -1,13 +1,23 @@
 <h1 align="left">🎰 Hi, I'm Saeed Ali</h1>
+
 ###
+
 <p align="left">Developer with experience in web 💻 & game development 🎮, currently learning DevOps ☁️</p>
+
 ###
+
 <h2 align="left">About me</h2>
+
 ###
+
 <p align="left">- 📚 I'm currently learning Docker, AWS, CI/CD Pipeline and K8; furthermore refining my skills<br>- ⚡ In my free time I'm currently building and designing another game/web development of my liking<br>- 🗂️ Hands-on experience with Agile and Waterfall workflows, creating user stories, personas, acceptance criteria, UML Diagrams, and using tools like Trello</p>
+
 ###
+
 <h2 align="left">Skills</h2>
+
 ###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -32,21 +42,47 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" height="40" alt="github actions logo" />
 </div>
-</div>
+
 ###
+
 <div align="center">
   <img height="250" src="https://camo.githubusercontent.com/1a31f795fe4965d872d12c91eb851e210f69f55f7fc14a2f4252d053376b9017/68747470733a2f2f6d65646961342e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a4578596a4a7361325a6f5a546434626d4a6f5a7a5a6d6147777a636a686e6557356a4e486735646e413261335a69637a4e7a646e497a59535a6c634431324d563970626e526c636d35686246396e61575a66596e6c666157516d593351395a772f546f4d6a477078546c41596865796b685151772f67697068792e676966"  />
 </div>
+
 ###
+
 <h2 align="center">⛓️‍💥 Connect</h2>
+
 ###
+
 <br clear="both">
+
 <div align="center">
   <a href="https://www.linkedin.com/in/saeedaali/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="55" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="43" alt="linkedin logo"  />
   </a>
 </div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+  <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" height="40" alt="github actions logo" />
+</div>
+
+###
+
+<p align="left">Hello World!!</p>
+
 ###
