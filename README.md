@@ -49,7 +49,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
   <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" height="90" alt="github actions logo" />
+  <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" height="40" alt="github actions logo" />
   <img width="12" />
 </div>
 
