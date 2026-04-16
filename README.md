@@ -20,7 +20,7 @@
 
 <h2>Programming Languages</h2>
 
-  ![HTML](https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+  ![HTML](https://img.shields.io/badge/-HTML5-blue?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
 
 
 <h2>Game Development</h2>
