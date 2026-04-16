@@ -14,16 +14,16 @@
 
 ###
 
- <h3>DevOps & Cloud Networking </h3>
+ <h2>DevOps & Cloud Networking </h2>
 
 ![Linux](https://img.shields.io/badge/-Linux-blue?style=for-the-badge&logo=linux&logoColor=white) ![Bash Scripting](https://img.shields.io/badge/-Bash_Scripting-blue?style=for-the-badge&logo=bash-scripting&logoColor=white) ![Git](https://img.shields.io/badge/-Git-blue?style=for-the-badge&logo=git&logoColor=white) ![Networking](https://img.shields.io/badge/-Networking-blue?style=for-the-badge&logo=networking&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-blue?style=for-the-badge&logo=aws&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-blue?style=for-the-badge&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-blue?style=for-the-badge&logo=github-actions&logoColor=white)
 
-<h3>Programming Languages</h3>
+<h2>Programming Languages</h2>
 
   ![HTML](https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
 
 
-  <h3>Game Development</h3>
+<h2>Game Development</h2>
 
   ![Unity](https://img.shields.io/badge/-Unity-blue?style=for-the-badge&logo=unity&logoColor=white) ![CSharp](https://img.shields.io/badge/-CSharp-blue?style=for-the-badge&logo=csharp&logoColor=white) ![Roblox Studio](https://img.shields.io/badge/-Roblox_Studio-blue?style=for-the-badge&logo=roblox-studio&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-blue?style=for-the-badge&logo=lua&logoColor=white)
 
