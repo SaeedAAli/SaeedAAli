@@ -13,45 +13,34 @@
 <p align="left">- 📚 I'm currently learning Docker, AWS, CI/CD Pipeline and K8; furthermore refining my skills<br>- ⚡ In my free time I'm currently building and designing another game/web development of my liking<br>- 🗂️ Hands-on experience with Agile and Waterfall workflows, creating user stories, personas, acceptance criteria, UML Diagrams, and using tools like Trello</p>
 
 ###
+<details open>
+  <summary><h3>DevOps & Cloud Networking </h3></summary>
 
-<h2 align="left">Skills</h2>
+![Linux](https://img.shields.io/badge/-Linux-blue?style=for-the-badge&logo=linux&logoColor=white) ![Bash Scripting](https://img.shields.io/badge/-Bash_Scripting-blue?style=for-the-badge&logo=bash-scripting&logoColor=white) ![Git](https://img.shields.io/badge/-Git-blue?style=for-the-badge&logo=git&logoColor=white) ![Networking](https://img.shields.io/badge/-Networking-blue?style=for-the-badge&logo=networking&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-blue?style=for-the-badge&logo=aws&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-blue?style=for-the-badge&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-blue?style=for-the-badge&logo=github-actions&logoColor=white)
 
-###
+</details>
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="lua logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/eb/Roblox_Studio_logo_-_2022.svg" height="40" alt="RS Studio" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
-  <img width="12" />
-  <img src="https://icon.icepanel.io/Technology/svg/GitHub-Actions.svg" height="40" alt="github actions logo" />
-  <img width="12" />
-</div>
+<details>
+  <summary><h3>Programming Languages</h3></summary>
+
+  ![HTML](https://img.shields.io/badge/-HTML-blue?style=for-the-badge&logo=html&logoColor=white) ![CSS](https://img.shields.io/badge/-CSS-blue?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-blue?style=for-the-badge&logo=javascript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=white)
+
+</details>
+
+<details>
+  <summary><h3>Game Development</h3></summary>
+
+  ![Unity](https://img.shields.io/badge/-Unity-blue?style=for-the-badge&logo=unity&logoColor=white) ![CSharp](https://img.shields.io/badge/-CSharp-blue?style=for-the-badge&logo=csharp&logoColor=white) ![Roblox Studio](https://img.shields.io/badge/-Roblox_Studio-blue?style=for-the-badge&logo=roblox-studio&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-blue?style=for-the-badge&logo=lua&logoColor=white)
+
+</details>
+
+
+
+
+
+
+
+
 
 ###
 
