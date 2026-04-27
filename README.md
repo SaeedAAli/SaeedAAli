@@ -1,12 +1,12 @@
-<h1 align="left">👋 Hi, I'm Saeed Ali</h1>
+<h1 align="center">👋 Hi, I'm Saeed Ali</h1>
 
 ###
 
-<p align="left">Developer with experience in web 💻 & game development 🎮, currently learning DevOps ☁️</p>
+<p align="center">Developer with experience in web 💻 & game development 🎮, currently learning DevOps ☁️</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="center">About me</h2>
 
 ###
 
