@@ -4,6 +4,11 @@
 
 <p align="center">Developer with experience in web 💻 & game development 🎮, currently learning DevOps ☁️</p>
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=saeedaali.saeedaali&right_color=aliceblue"  />
+</div>
+
+
 ###
 
 <h2 align="center">About me</h2>
