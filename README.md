@@ -15,13 +15,13 @@
 
 ###
 
-<p align="left">- 📚 I'm currently learning Docker, AWS, CI/CD Pipeline and K8; furthermore refining my skills<br>- ⚡ In my free time I'm currently building and designing another game/web development of my liking<br>- 🗂️ Hands-on experience with Agile and Waterfall workflows, creating user stories, personas, acceptance criteria, UML Diagrams, and using tools like Trello</p>
+<p align="left">Equipped with hands-on experience building projects with using different resources such as Amazon Web Services, Terraform, and Docker<br><br>Built Multiple End to End projects ranging from different sectors of Tech, ranging from DevOps / Cloud Networking to Game Development and Web Development<br><br>Hard Designed each project with the intended purpose to meet all criteria from using Acceptance Criteria, User Stories, Moodboards and much more in order to fit the overall atmosphere of what I'm achieving.</p>
 
 ###
 
  <h2>DevOps & Cloud Networking </h2>
 
-![Linux](https://img.shields.io/badge/-Linux-blue?style=for-the-badge&logo=linux&logoColor=white) ![Bash Scripting](https://img.shields.io/badge/-Bash_Scripting-blue?style=for-the-badge&logo=bash-scripting&logoColor=white) ![Git](https://img.shields.io/badge/-Git-blue?style=for-the-badge&logo=git&logoColor=white) ![Networking](https://img.shields.io/badge/-Networking-blue?style=for-the-badge&logo=networking&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-blue?style=for-the-badge&logo=aws&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-blue?style=for-the-badge&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-blue?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-blue?style=for-the-badge&logo=linux&logoColor=white) ![Bash Scripting](https://img.shields.io/badge/-Bash_Scripting-blue?style=for-the-badge&logo=bash-scripting&logoColor=white) ![Git](https://img.shields.io/badge/-Git-blue?style=for-the-badge&logo=git&logoColor=white) ![Networking](https://img.shields.io/badge/-Networking-blue?style=for-the-badge&logo=networking&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-blue?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-blue?style=for-the-badge&logo=aws&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-blue?style=for-the-badge&logo=terraform&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-blue?style=for-the-badge&logo=github-actions&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 
 <h2>Programming Languages</h2>
 
