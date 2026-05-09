@@ -1,4 +1,12 @@
-<h1 align="center"> <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">Hi, I'm Saeed Ali</h1>
+<h1 align="center">
+  <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" 
+       alt="Animated Emoji" 
+       width="50" 
+       height="50"
+       style="vertical-align: middle;">
+  Hi, I'm Saeed Ali
+</h1>
+
 
 ###
 
