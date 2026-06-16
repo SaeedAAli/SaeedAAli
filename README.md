@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="40" height="40" /> <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="40" height="40" />
+<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="40" height="40" />
 Hi, I'm Saeed Ali
 </h1>
 
