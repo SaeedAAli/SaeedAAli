@@ -1,4 +1,4 @@
-<h1 align="center"
+<h1 align="center">
 <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="50" height="50">
   Hi, I'm Saeed Ali
 </h1>
