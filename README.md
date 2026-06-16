@@ -1,6 +1,6 @@
 <h1 align="center">
-<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" alt="Animated Emoji" width="40" height="40" box-shadow="none">
-  Hi, I'm Saeed Ali
+<img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="40" height="40" /> <img src="https://iam-weijie.github.io/wave/hand-emoji.svg" width="40" height="40" />
+Hi, I'm Saeed Ali
 </h1>
 
 
