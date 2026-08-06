@@ -1,5 +1,7 @@
-PinDown.io_@Lauralzatec_1763590030.gif
-github-header-banner.png
-.gitignore
-.DNS
-.ENV_Store
+# Create a global ignore file somewhere outside any repo
+git config --global core.excludesFile ~/.gitignore_global
+
+# Add your rules to it
+echo "*.png" >> ~/.gitignore_global
+echo "*.jpg" >> ~/.gitignore_global
+echo "drafts/" >> ~/.gitignore_global
